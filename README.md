@@ -58,3 +58,8 @@ Você pode apresentar o resultado tanto no **console** quanto em um **alerta** n
 
 10. Crie um script que declare uma variável e verifique se o seu valor é um número ímpar. Se for, exiba a mensagem "É um número ímpar", caso contrário, exiba a mensagem "Não é um número ímpar".
 
+
+
+
+
+- Esse desafio foi realizado pela aluna Kássia Almeida Moura em 2024.
